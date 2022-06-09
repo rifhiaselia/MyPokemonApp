@@ -1,4 +1,4 @@
-package com.mypokemonapp.newarchitecture;
+package com.mypokemonapp8.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.mypokemonapp.BuildConfig;
-import com.mypokemonapp.newarchitecture.components.MainComponentsRegistry;
-import com.mypokemonapp.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.mypokemonapp8.BuildConfig;
+import com.mypokemonapp8.newarchitecture.components.MainComponentsRegistry;
+import com.mypokemonapp8.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

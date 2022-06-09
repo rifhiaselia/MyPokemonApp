@@ -1,4 +1,4 @@
-package com.mypokemonapp;
+package com.mypokemonapp8;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

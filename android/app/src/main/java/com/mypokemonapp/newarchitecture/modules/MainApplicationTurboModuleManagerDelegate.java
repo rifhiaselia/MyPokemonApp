@@ -1,4 +1,4 @@
-package com.mypokemonapp.newarchitecture.modules;
+package com.mypokemonapp8.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

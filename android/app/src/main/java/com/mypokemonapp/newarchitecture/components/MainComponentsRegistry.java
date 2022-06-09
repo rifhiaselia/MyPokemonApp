@@ -1,4 +1,4 @@
-package com.mypokemonapp.newarchitecture.components;
+package com.mypokemonapp8.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;
