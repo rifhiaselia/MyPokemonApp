@@ -52,7 +52,7 @@ const Login = ({navigation}) => {
       <Formik
         validationSchema={LoginSchema}
         initialValues={{email: '', password: ''}}
-        onSubmit={values => onLoginRDB(values)}>
+        onSubmit={values => onLogin(values)}>
         {({
           handleChange,
           handleBlur,
